@@ -21,3 +21,14 @@ The repository is organized by experiments, each covering specific Java concepts
 1. Clone the repository:
    ```bash
    git clone [https://github.com/ATS-27/Java_Programs.git](https://github.com/ATS-27/Java_Programs.git)
+
+2. Navigate to the specific experiment folder.
+
+3. Compile the Java file:
+
+```bash
+   javac FileName.java
+   Run the program:
+   java FileName
+
+Author: Atherva Srivastava
