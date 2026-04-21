@@ -11,7 +11,7 @@ The repository is organized by experiments, each covering specific Java concepts
 * **Experiment 3:** Book Inventory System
 * **Experiment 4:** Vector Operations Program
 * **Experiment 5:** Banking Application
-
+* **Experiment 6:** Employee Payroll System
 
 ## 🛠️ Requirements
 * **JDK:** 11 or higher
