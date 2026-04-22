@@ -13,6 +13,9 @@ The repository is organized by experiments, each covering specific Java concepts
 * **Experiment 5:** Banking Application
 * **Experiment 6:** Employee Payroll System
 * **Experiment 7:** Student Record Manager
+* **Experiment 8:** Design Patterns In Java
+* **Experiment 9:** JDBC Connectivity
+* **Experiment 10:** Restaurant Menu GUI
 
 
 ## 🛠️ Requirements
